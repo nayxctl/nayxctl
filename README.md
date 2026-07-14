@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://nayx.framer.website">
+    <img src="nayxctl.svg#gh-dark-mode-only" width="100%" alt="NayX Profile Banner" />
+  </a>
+</p>
+
 <!--
 **nayxctl/nayxctl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

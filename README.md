@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi,
+# I'm NayX
 
 <p align="center">
   <a href="https://nayx.framer.website">

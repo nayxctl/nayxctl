@@ -1,5 +1,10 @@
 ![Banner](https://github.com/nayxctl/nayxctl/blob/main/assets/Github%20Banner.png?raw=true)
-<p align="center"> <a href="https://nayx.framer.website"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=google-chrome&logoColor=white"/></a>  <a href="https://github.com/nayxctl"><img src="https://img.shields.io/badge/-nayxctl-181717?style=flat&logo=github&logoColor=white"/></a> <a href="https://discord.gg/NNwB4SVacN"><img src="https://img.shields.io/badge/-ShadowEminents-5865F2?style=flat&logo=discord&logoColor=white"/></a> <a href="https://www.instagram.com/_nayx_o/"><img src="https://img.shields.io/badge/-NayX-E4405F?style=flat&logo=instagram&logoColor=white"/></a> </p>
+<p align="center"> 
+<a href="https://nayx.framer.website"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=google-chrome&logoColor=white"/></a>  
+<a href="https://github.com/nayxctl"><img src="https://img.shields.io/badge/-nayxctl-181717?style=flat&logo=github&logoColor=white"/></a> 
+<a href="https://discord.gg/NNwB4SVacN"><img src="https://img.shields.io/badge/-ShadowEminents-5865F2?style=flat&logo=discord&logoColor=white"/></a> 
+<a href="https://www.instagram.com/_nayx_o/"><img src="https://img.shields.io/badge/-NayX-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
 
 Hey, I am **NayX** also known as **Naimul Hasan Nayeem**. Currently, I am learning and building and exploring new.
 <details>
